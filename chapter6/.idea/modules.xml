@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corelib/corelib.iml" filepath="$PROJECT_DIR$/corelib/corelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/org.addressbook/org.addressbook.iml" filepath="$PROJECT_DIR$/org.addressbook/org.addressbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.addressbook.lib/org.addressbook.lib.iml" filepath="$PROJECT_DIR$/org.addressbook.lib/org.addressbook.lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/org.addressbook.ui/org.addressbook.ui.iml" filepath="$PROJECT_DIR$/org.addressbook.ui/org.addressbook.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/org.contact/org.contact.iml" filepath="$PROJECT_DIR$/org.contact/org.contact.iml" />
       <module fileurl="file://$PROJECT_DIR$/org.sortutil/org.sortutil.iml" filepath="$PROJECT_DIR$/org.sortutil/org.sortutil.iml" />
